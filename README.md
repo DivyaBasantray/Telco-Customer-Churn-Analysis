@@ -1,14 +1,14 @@
 # Telco-Customer-Churn-Analysis
 
 
-📌 1. Project Objective
+## 🚀 1. Project Objective
 
 - The goal of this project is to understand why customers are leaving a telecom company (customer churn).
 - Using SQL, Python and Power BI, I cleaned the dataset, explored patterns, and built an interactive dashboard that helps identify the key factors driving churn.
 - This analysis will help the business take focused actions to retain customers and reduce revenue loss.
 
 
-🔍 2. Key Insights (From the Power BI Dashboard)
+## 🔍 2. Key Insights
 
 - After analyzing customer behavior and visualizing it in Power BI, these are the major findings:
 
@@ -27,7 +27,7 @@
 - These insights suggest that the company should encourage yearly plans, promote auto payments, offer service bundles and focus on engagement during the first few months.
 
 
-🛠 3. Tech Stack (Tools Used and Why)
+## 3. 🛠 Tech Stack
 
 - SQL (MySQL Server)
     - I used SQL to clean the raw dataset.
@@ -45,7 +45,7 @@
     - Power BI made the findings visually clear and easy to interpret. 
 
 
-📊 4. Dashboard Purpose and Features
+## 📊 4. Dashboard Purpose & Features
 
 - Business Problem:
     - The telecom company is losing customers every month and wants to know why customers are leaving and what factors contribute the most to churn.
@@ -77,7 +77,7 @@
     - Short contracts + fiber optic + electronic check payments + no extra services = High churn.
 
 
-🗂 5. Dataset
+## 📁 5. Dataset
 
 Dataset Name: Telco Customer Churn
 Rows: 7043 customers
@@ -93,6 +93,6 @@ Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
     - Churn status (Yes / No)
  
-💼 6. Screenshots/Demos
+## 💼 6. Dashboard Snapshot
 Here's a preview of the dashboard:
-https://github.com/DivyaBasantray/Telco-Customer-Churn-Analysis/raw/main/Snapshot%20of%20the%20Telco%20Customer%20Churn%20Dashboard.png
+![Dashboard Preview](https://raw.githubusercontent.com/DivyaBasantray/Telco-Customer-Churn-Analysis/main/Snapshot%20of%20the%20Telco%20Customer%20Churn%20Dashboard.png)
