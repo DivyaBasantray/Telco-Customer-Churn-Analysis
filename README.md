@@ -79,9 +79,9 @@
 
 ## 📁 5. Dataset
 
-Dataset Name: Telco Customer Churn
-Rows: 7043 customers
-Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+- Dataset Name: Telco Customer Churn
+- Rows: 7043 customers
+- Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 - Contains information on:
 
