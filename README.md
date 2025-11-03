@@ -27,7 +27,7 @@
 - These insights suggest that the company should encourage yearly plans, promote auto payments, offer service bundles and focus on engagement during the first few months.
 
 
-## 3. 🛠 Tech Stack
+##  🛠 3. Tech Stack
 
 - SQL (MySQL Server)
     - I used SQL to clean the raw dataset.
