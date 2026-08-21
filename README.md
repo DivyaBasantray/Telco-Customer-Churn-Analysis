@@ -1,7 +1,7 @@
 # Telco-Customer-Churn-Analysis
 
 
-## 🚀 1. Project Objective
+## 1. Project Objective
 
 - The goal of this project is to understand why customers are leaving a telecom company (customer churn).
 - Using SQL, Python and Power BI, I cleaned the dataset, explored patterns, and built an interactive dashboard that helps identify the key factors driving churn.
